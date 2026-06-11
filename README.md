@@ -11,6 +11,9 @@
   <a href="mailto:abhinavbahuleyan7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://abhinav-b-portfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
   <img src="https://komarev.com/ghpvc/?username=abhinavb20&style=for-the-badge" />
 </p>
 
